@@ -1,0 +1,50 @@
+.filters-group-container {
+  margin-top: 16px;
+}
+.filter-heading {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-size: 18px;
+  font-weight: 600;
+}
+.filters-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.clear-filter {
+  border-color: #0967d2;
+  color: #0967d2;
+  border-radius: 5px;
+  height: 30px;
+  border-width: 1px;
+}
+.search-box {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f1f5f9;
+  border-radius: 5px;
+  padding: 5px;
+}
+.search {
+  background-color: transparent;
+  border: none;
+  flex-grow: 1;
+  height: 100%;
+  outline: none;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+}
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+  }
+}
+
+/* Write your CSS here */

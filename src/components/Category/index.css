@@ -1,0 +1,15 @@
+.fil-btn {
+  background-color: transparent;
+  border: none;
+
+  margin-bottom: 8px;
+}
+.filters-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.cat-name {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 16px;
+}

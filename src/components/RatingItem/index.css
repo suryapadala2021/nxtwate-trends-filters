@@ -1,0 +1,11 @@
+.fil-btn {
+  background-color: transparent;
+  border: none;
+  font-family: 'Roboto';
+  color: #64748b;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.rating-img {
+  height: 20px;
+}
